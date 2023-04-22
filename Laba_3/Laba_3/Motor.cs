@@ -9,9 +9,7 @@ namespace _Motor_
 
         public void Event() 
         {
-            MyEvent allevent = _Event;
-            if (allevent != null)
-                allevent();
+            _Event?.Invoke();
         }
     }
 }
