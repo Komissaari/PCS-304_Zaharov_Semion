@@ -1,0 +1,16 @@
+C:\Project\Hometask_2\Hometask_2\bin\Debug\Hometask_2.exe.config
+C:\Project\Hometask_2\Hometask_2\bin\Debug\Hometask_2.exe
+C:\Project\Hometask_2\Hometask_2\bin\Debug\Hometask_2.pdb
+C:\Project\Hometask_2\Hometask_2\obj\Debug\Hometask_2.csproj.AssemblyReference.cache
+C:\Project\Hometask_2\Hometask_2\obj\Debug\Hometask_2.csproj.SuggestedBindingRedirects.cache
+C:\Project\Hometask_2\Hometask_2\obj\Debug\MainWindow.g.cs
+C:\Project\Hometask_2\Hometask_2\obj\Debug\App.g.cs
+C:\Project\Hometask_2\Hometask_2\obj\Debug\Hometask_2_MarkupCompile.cache
+C:\Project\Hometask_2\Hometask_2\obj\Debug\Hometask_2_MarkupCompile.lref
+C:\Project\Hometask_2\Hometask_2\obj\Debug\MainWindow.baml
+C:\Project\Hometask_2\Hometask_2\obj\Debug\Hometask_2.g.resources
+C:\Project\Hometask_2\Hometask_2\obj\Debug\Hometask_2.Properties.Resources.resources
+C:\Project\Hometask_2\Hometask_2\obj\Debug\Hometask_2.csproj.GenerateResource.cache
+C:\Project\Hometask_2\Hometask_2\obj\Debug\Hometask_2.csproj.CoreCompileInputs.cache
+C:\Project\Hometask_2\Hometask_2\obj\Debug\Hometask_2.exe
+C:\Project\Hometask_2\Hometask_2\obj\Debug\Hometask_2.pdb
