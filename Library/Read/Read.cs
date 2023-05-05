@@ -12,7 +12,7 @@ namespace Read
             {
                 Thread.Sleep(1000);
                 Console.Clear();
-                FileReadWrite.FileRead((Singleton.Get().d_path));
+                FileReadWrite.FileRead((Singleton.Get()));
             }
         }
     }

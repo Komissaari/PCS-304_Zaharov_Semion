@@ -26,28 +26,28 @@ namespace Write
                 CarName = "L200",
                 CarType = "offroader",
             };
-            Console.WriteLine(Singleton.Get().d_path);
+            Console.WriteLine(Singleton.Get());
             while (true)
             {
                 Thread.Sleep(1000);
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), RussianCar.CarBrand);
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), "\t");
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), RussianCar.CarName);
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), "\t");
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), RussianCar.CarType);
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), "\n");
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), GermanCar.CarBrand);
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), "\t");
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), GermanCar.CarName);
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), "\t");
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), GermanCar.CarType);
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), "\n");
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), JapanCar.CarBrand);
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), "\t");
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), JapanCar.CarName);
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), "\t");
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), JapanCar.CarType);
-                FileReadWrite.FileNotReWrite((Singleton.Get().d_path), "\n");
+                FileReadWrite.FileNotReWrite((Singleton.Get()), RussianCar.CarBrand);
+                FileReadWrite.FileNotReWrite((Singleton.Get()), "\t");
+                FileReadWrite.FileNotReWrite((Singleton.Get()), RussianCar.CarName);
+                FileReadWrite.FileNotReWrite((Singleton.Get()), "\t");
+                FileReadWrite.FileNotReWrite((Singleton.Get()), RussianCar.CarType);
+                FileReadWrite.FileNotReWrite((Singleton.Get()), "\n");
+                FileReadWrite.FileNotReWrite((Singleton.Get()), GermanCar.CarBrand);
+                FileReadWrite.FileNotReWrite((Singleton.Get()), "\t");
+                FileReadWrite.FileNotReWrite((Singleton.Get()), GermanCar.CarName);
+                FileReadWrite.FileNotReWrite((Singleton.Get()), "\t");
+                FileReadWrite.FileNotReWrite((Singleton.Get()), GermanCar.CarType);
+                FileReadWrite.FileNotReWrite((Singleton.Get()), "\n");
+                FileReadWrite.FileNotReWrite((Singleton.Get()), JapanCar.CarBrand);
+                FileReadWrite.FileNotReWrite((Singleton.Get()), "\t");
+                FileReadWrite.FileNotReWrite((Singleton.Get()), JapanCar.CarName);
+                FileReadWrite.FileNotReWrite((Singleton.Get()), "\t");
+                FileReadWrite.FileNotReWrite((Singleton.Get()), JapanCar.CarType);
+                FileReadWrite.FileNotReWrite((Singleton.Get()), "\n");
             }
         }
     }

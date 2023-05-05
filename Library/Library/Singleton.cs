@@ -8,7 +8,7 @@ namespace Library
         private static Singleton instance;
         public string d_path;
         private Singleton() { }
-        public static Singleton Get()
+        public static string Get()
         {
             if (instance == null)
             {
@@ -21,7 +21,7 @@ namespace Library
                     instance.d_path = Encoding.Default.GetString(buffer);
                 }
             }
-            return instance;
+            return instance.d_path;
         }
     }
 }
