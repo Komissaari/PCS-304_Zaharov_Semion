@@ -1,4 +1,5 @@
 ﻿using System.IO;
+using System.Runtime.CompilerServices;
 using System.Text;
 
 namespace Library
@@ -8,12 +9,13 @@ namespace Library
         private static Singleton instance;
         public string d_path;
         private Singleton() { }
+        [MethodImpl()]
         public static string Get()
         {
             if (instance == null)
             {
                 instance = new Singleton();
-                string f_path = "C:\\RW\\config.txt";
+                string f_path = "C:\\Users\\User\\Documents\\ReadWrite\\config.txt";
                 using (FileStream stream = File.OpenRead(f_path))
                 {
                     byte[] buffer = new byte[stream.Length];
