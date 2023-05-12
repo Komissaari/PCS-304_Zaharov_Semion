@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Laba_5\Laba_5\bin\Debug\Laba_5.exe.config
+C:\Users\User\source\repos\Laba_5\Laba_5\bin\Debug\Laba_5.exe
+C:\Users\User\source\repos\Laba_5\Laba_5\bin\Debug\Laba_5.pdb
+C:\Users\User\source\repos\Laba_5\Laba_5\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\User\source\repos\Laba_5\Laba_5\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\User\source\repos\Laba_5\Laba_5\obj\Debug\Laba_5.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Laba_5\Laba_5\obj\Debug\Laba_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Laba_5\Laba_5\obj\Debug\Laba_5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Laba_5\Laba_5\obj\Debug\Laba_5.csproj.CopyComplete
+C:\Users\User\source\repos\Laba_5\Laba_5\obj\Debug\Laba_5.exe
+C:\Users\User\source\repos\Laba_5\Laba_5\obj\Debug\Laba_5.pdb
