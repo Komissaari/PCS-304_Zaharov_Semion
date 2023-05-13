@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\DomainStability\DomainStability\bin\Debug\DomainStability.exe.config
+C:\Users\User\source\repos\DomainStability\DomainStability\bin\Debug\DomainStability.exe
+C:\Users\User\source\repos\DomainStability\DomainStability\bin\Debug\DomainStability.pdb
+C:\Users\User\source\repos\DomainStability\DomainStability\obj\Debug\DomainStability.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DomainStability\DomainStability\obj\Debug\DomainStability.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\DomainStability\DomainStability\obj\Debug\DomainStability.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DomainStability\DomainStability\obj\Debug\DomainStability.exe
+C:\Users\User\source\repos\DomainStability\DomainStability\obj\Debug\DomainStability.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\DomainAndThread\DomainAndThread\bin\Debug\DomainAndThread.exe.config
+C:\Users\User\source\repos\DomainAndThread\DomainAndThread\bin\Debug\DomainAndThread.exe
+C:\Users\User\source\repos\DomainAndThread\DomainAndThread\bin\Debug\DomainAndThread.pdb
+C:\Users\User\source\repos\DomainAndThread\DomainAndThread\obj\Debug\DomainAndThread.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DomainAndThread\DomainAndThread\obj\Debug\DomainAndThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\DomainAndThread\DomainAndThread\obj\Debug\DomainAndThread.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DomainAndThread\DomainAndThread\obj\Debug\DomainAndThread.exe
+C:\Users\User\source\repos\DomainAndThread\DomainAndThread\obj\Debug\DomainAndThread.pdb

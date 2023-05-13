@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Security\DomenSecurity\bin\Debug\DomenSecurity.exe.config
+C:\Users\User\source\repos\Security\DomenSecurity\bin\Debug\DomenSecurity.exe
+C:\Users\User\source\repos\Security\DomenSecurity\bin\Debug\DomenSecurity.pdb
+C:\Users\User\source\repos\Security\DomenSecurity\obj\Debug\DomenSecurity.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Security\DomenSecurity\obj\Debug\DomenSecurity.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Security\DomenSecurity\obj\Debug\DomenSecurity.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Security\DomenSecurity\obj\Debug\DomenSecurity.exe
+C:\Users\User\source\repos\Security\DomenSecurity\obj\Debug\DomenSecurity.pdb

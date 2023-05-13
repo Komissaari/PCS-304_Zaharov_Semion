@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Security\Security\bin\Debug\Security.exe.config
+C:\Users\User\source\repos\Security\Security\bin\Debug\Security.exe
+C:\Users\User\source\repos\Security\Security\bin\Debug\Security.pdb
+C:\Users\User\source\repos\Security\Security\obj\Debug\Security.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Security\Security\obj\Debug\Security.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Security\Security\obj\Debug\Security.Form1.resources
+C:\Users\User\source\repos\Security\Security\obj\Debug\Security.Properties.Resources.resources
+C:\Users\User\source\repos\Security\Security\obj\Debug\Security.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Security\Security\obj\Debug\Security.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Security\Security\obj\Debug\Security.exe
+C:\Users\User\source\repos\Security\Security\obj\Debug\Security.pdb

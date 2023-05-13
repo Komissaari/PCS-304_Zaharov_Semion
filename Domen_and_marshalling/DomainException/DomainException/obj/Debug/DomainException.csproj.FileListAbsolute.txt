@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\DomainException\DomainException\bin\Debug\DomainException.exe.config
+C:\Users\User\source\repos\DomainException\DomainException\bin\Debug\DomainException.exe
+C:\Users\User\source\repos\DomainException\DomainException\bin\Debug\DomainException.pdb
+C:\Users\User\source\repos\DomainException\DomainException\obj\Debug\DomainException.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DomainException\DomainException\obj\Debug\DomainException.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\DomainException\DomainException\obj\Debug\DomainException.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DomainException\DomainException\obj\Debug\DomainException.exe
+C:\Users\User\source\repos\DomainException\DomainException\obj\Debug\DomainException.pdb

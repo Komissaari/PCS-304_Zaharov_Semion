@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\MultyDomain\WFApp1\bin\Debug\WFApp1.exe.config
+C:\Users\User\source\repos\MultyDomain\WFApp1\bin\Debug\WFApp1.exe
+C:\Users\User\source\repos\MultyDomain\WFApp1\bin\Debug\WFApp1.pdb
+C:\Users\User\source\repos\MultyDomain\WFApp1\obj\Debug\WFApp1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MultyDomain\WFApp1\obj\Debug\WFApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\MultyDomain\WFApp1\obj\Debug\WFApp1.Properties.Resources.resources
+C:\Users\User\source\repos\MultyDomain\WFApp1\obj\Debug\WFApp1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MultyDomain\WFApp1\obj\Debug\WFApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MultyDomain\WFApp1\obj\Debug\WFApp1.exe
+C:\Users\User\source\repos\MultyDomain\WFApp1\obj\Debug\WFApp1.pdb

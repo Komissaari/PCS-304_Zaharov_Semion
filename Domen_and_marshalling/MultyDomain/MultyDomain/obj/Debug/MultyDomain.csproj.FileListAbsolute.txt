@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\MultyDomain\MultyDomain\bin\Debug\MultyDomain.exe.config
+C:\Users\User\source\repos\MultyDomain\MultyDomain\bin\Debug\MultyDomain.exe
+C:\Users\User\source\repos\MultyDomain\MultyDomain\bin\Debug\MultyDomain.pdb
+C:\Users\User\source\repos\MultyDomain\MultyDomain\obj\Debug\MultyDomain.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MultyDomain\MultyDomain\obj\Debug\MultyDomain.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\MultyDomain\MultyDomain\obj\Debug\MultyDomain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MultyDomain\MultyDomain\obj\Debug\MultyDomain.exe
+C:\Users\User\source\repos\MultyDomain\MultyDomain\obj\Debug\MultyDomain.pdb
