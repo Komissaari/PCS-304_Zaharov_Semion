@@ -6,3 +6,11 @@ C:\Users\User\source\repos\MultyDomain\MultyDomain\obj\Debug\MultyDomain.csproj.
 C:\Users\User\source\repos\MultyDomain\MultyDomain\obj\Debug\MultyDomain.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\MultyDomain\MultyDomain\obj\Debug\MultyDomain.exe
 C:\Users\User\source\repos\MultyDomain\MultyDomain\obj\Debug\MultyDomain.pdb
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\MultyDomain\MultyDomain\bin\Debug\MultyDomain.exe.config
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\MultyDomain\MultyDomain\bin\Debug\MultyDomain.exe
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\MultyDomain\MultyDomain\bin\Debug\MultyDomain.pdb
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\MultyDomain\MultyDomain\obj\Debug\MultyDomain.csproj.AssemblyReference.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\MultyDomain\MultyDomain\obj\Debug\MultyDomain.csproj.SuggestedBindingRedirects.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\MultyDomain\MultyDomain\obj\Debug\MultyDomain.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\MultyDomain\MultyDomain\obj\Debug\MultyDomain.exe
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\MultyDomain\MultyDomain\obj\Debug\MultyDomain.pdb

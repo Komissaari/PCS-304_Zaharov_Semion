@@ -9,3 +9,14 @@ C:\Users\User\source\repos\Security\Security\obj\Debug\Security.csproj.GenerateR
 C:\Users\User\source\repos\Security\Security\obj\Debug\Security.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\Security\Security\obj\Debug\Security.exe
 C:\Users\User\source\repos\Security\Security\obj\Debug\Security.pdb
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\Security\bin\Debug\Security.exe.config
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\Security\bin\Debug\Security.exe
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\Security\bin\Debug\Security.pdb
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\Security\obj\Debug\Security.csproj.AssemblyReference.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\Security\obj\Debug\Security.csproj.SuggestedBindingRedirects.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\Security\obj\Debug\Security.Form1.resources
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\Security\obj\Debug\Security.Properties.Resources.resources
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\Security\obj\Debug\Security.csproj.GenerateResource.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\Security\obj\Debug\Security.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\Security\obj\Debug\Security.exe
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\Security\obj\Debug\Security.pdb

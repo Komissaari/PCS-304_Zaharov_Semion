@@ -6,3 +6,11 @@ C:\Users\User\source\repos\DomainException\DomainException\obj\Debug\DomainExcep
 C:\Users\User\source\repos\DomainException\DomainException\obj\Debug\DomainException.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\DomainException\DomainException\obj\Debug\DomainException.exe
 C:\Users\User\source\repos\DomainException\DomainException\obj\Debug\DomainException.pdb
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\DomainException\DomainException\bin\Debug\DomainException.exe.config
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\DomainException\DomainException\bin\Debug\DomainException.exe
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\DomainException\DomainException\bin\Debug\DomainException.pdb
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\DomainException\DomainException\obj\Debug\DomainException.csproj.AssemblyReference.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\DomainException\DomainException\obj\Debug\DomainException.csproj.SuggestedBindingRedirects.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\DomainException\DomainException\obj\Debug\DomainException.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\DomainException\DomainException\obj\Debug\DomainException.exe
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\DomainException\DomainException\obj\Debug\DomainException.pdb

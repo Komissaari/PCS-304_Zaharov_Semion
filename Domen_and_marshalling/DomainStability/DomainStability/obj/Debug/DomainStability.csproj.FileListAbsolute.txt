@@ -6,3 +6,8 @@ C:\Users\User\source\repos\DomainStability\DomainStability\obj\Debug\DomainStabi
 C:\Users\User\source\repos\DomainStability\DomainStability\obj\Debug\DomainStability.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\DomainStability\DomainStability\obj\Debug\DomainStability.exe
 C:\Users\User\source\repos\DomainStability\DomainStability\obj\Debug\DomainStability.pdb
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\DomainStability\DomainStability\obj\Debug\DomainStability.csproj.AssemblyReference.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\DomainStability\DomainStability\obj\Debug\DomainStability.csproj.SuggestedBindingRedirects.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\DomainStability\DomainStability\obj\Debug\DomainStability.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\DomainStability\DomainStability\obj\Debug\DomainStability.exe
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\DomainStability\DomainStability\obj\Debug\DomainStability.pdb

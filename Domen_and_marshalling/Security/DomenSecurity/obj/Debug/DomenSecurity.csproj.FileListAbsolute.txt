@@ -6,3 +6,11 @@ C:\Users\User\source\repos\Security\DomenSecurity\obj\Debug\DomenSecurity.csproj
 C:\Users\User\source\repos\Security\DomenSecurity\obj\Debug\DomenSecurity.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\Security\DomenSecurity\obj\Debug\DomenSecurity.exe
 C:\Users\User\source\repos\Security\DomenSecurity\obj\Debug\DomenSecurity.pdb
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\DomenSecurity\bin\Debug\DomenSecurity.exe.config
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\DomenSecurity\bin\Debug\DomenSecurity.exe
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\DomenSecurity\bin\Debug\DomenSecurity.pdb
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\DomenSecurity\obj\Debug\DomenSecurity.csproj.AssemblyReference.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\DomenSecurity\obj\Debug\DomenSecurity.csproj.SuggestedBindingRedirects.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\DomenSecurity\obj\Debug\DomenSecurity.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\DomenSecurity\obj\Debug\DomenSecurity.exe
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Security\DomenSecurity\obj\Debug\DomenSecurity.pdb
