@@ -6,3 +6,11 @@ C:\Users\User\source\repos\Domain\Domain\obj\Debug\Domain.csproj.SuggestedBindin
 C:\Users\User\source\repos\Domain\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\Domain\Domain\obj\Debug\Domain.exe
 C:\Users\User\source\repos\Domain\Domain\obj\Debug\Domain.pdb
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Domain\Domain\bin\Debug\Domain.exe.config
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Domain\Domain\bin\Debug\Domain.exe
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Domain\Domain\bin\Debug\Domain.pdb
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Domain\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Domain\Domain\obj\Debug\Domain.csproj.SuggestedBindingRedirects.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Domain\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Domain\Domain\obj\Debug\Domain.exe
+D:\Users\User\Documents\GitHub\PCS-304_Zaharov_Semion\Domen_and_marshalling\Domain\Domain\obj\Debug\Domain.pdb
